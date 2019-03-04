@@ -1,0 +1,48 @@
+h1 {
+  font-family: "Courier New";
+  font-size: 50px;
+  font-variant: normal;
+  font-color: Blue;
+  text-align: center;
+  border-bottom: 10px;
+  border-color: inherit;
+  border-style: dotted;
+}
+
+h2{
+  font-size: 50px;
+  display: inline;
+  font-style: normal;
+  font-family: cursive;
+  font-stretch: expanded;
+  margin-left: 50px;
+  margin-top: 30px;
+  color: cyan;
+  background-color: pink;
+
+}
+
+h3 {
+  font-size: 50px;
+  font-family: cursive;
+  display: inline
+  font-stretch: expanded;
+  margin-left: 1000px;
+}
+
+p #menu {
+  display: inline;
+  font-family: "ariel";
+  font-size: 90px;
+  font-style: italic;
+  font-weight: bolder;
+}
+p #rate {
+  display: inline;
+  font-size: 40px;
+  font-style: italic;;
+  font-weight: bolder;
+
+
+
+}
